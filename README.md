@@ -3,7 +3,7 @@
 These assignments were done for the course "Algorithms and Data Structures" (ID1020) at KTH (Royal Institute of Technology), between 
 and October 2015. 
 
-## Pascal
+## PascalsTriangle
 
 This is an implementation of Pascal's Triangle. There is a recursive version, an iterative version and a reqursive version with better
 performance than the first version. 
